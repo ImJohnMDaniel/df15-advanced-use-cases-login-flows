@@ -10,4 +10,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+	<recordTypes>
+        <fullName>Quota</fullName>
+        <active>true</active>
+        <businessProcess>Quota Sales Process</businessProcess>
+        <label>Quota</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Sales</fullName>
+        <active>true</active>
+        <businessProcess>Sales Process</businessProcess>
+        <label>Sales</label>
+    </recordTypes>
 </CustomObject>
